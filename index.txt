@@ -1,0 +1,154 @@
+Vishwajeet Mishra - Personal Portfolio
+
+# sidebar
+
+alt = Vishwajeet Mishra
+Vishwajeet Mishra
+Web developer
+
+Show Contacts
+
+Email
+Mishramangalam2@gmail.com
+
+Phone
++918953994734
+
+Birthday
+April 4, 2004
+
+Location
+Delhi, India
+
+# navbar
+
+About
+Resume
+Portfolio
+Blog
+Contact
+
+# about
+
+**About me**
+
+
+My name is Vishwajeet Mishra, and I am a passionate and ambitious first-year web developer student.
+Through my studies and hands-on experience, I have gained a solid foundation in HTML, CSS, JavaScript, and other essential web technologies.
+
+As a lifelong learner, I am dedicated to staying up-to-date with the latest trends and advancements in web development. I am always exploring new frameworks, libraries, and tools to improve my efficiency and deliver exceptional results.
+
+As I embark on my journey, I am not only focusing on frontend technologies but also expanding my skills to the backend. To further enhance my skills and expand my capabilities, I have ventured into the world of backend development.
+
+I am excited to continue expanding my frontend and backend skills, staying up-to-date with the latest trends and best practices in both domains.
+
+
+
+## service
+
+What i'm doing
+
+alt = html icon
+HTML
+I  have acquired a Intermediate foundation in HTML, allowing me to create well-structured and semantically meaningful web pages. 
+
+alt = CSS icon
+CSS
+I  have successfully gained a Intermediate understanding of CSS, I have gained expertise in CSS selectors, properties, and layout techniques.
+
+alt = JavaScript icon
+JavaScript
+Equipped with Intermediate understanding of JavaScript, I can now build dynamic and interactive web applications. 
+
+alt = React icon
+React
+I have gained a Basic understanding of React components, state management, virtual DOM, and React Router.
+
+alt=C Programming icon
+C Programming
+I have gained a Intermediate understanding of C programming. I am equipped to develop efficient and robust software solutions. 
+
+alt=Python icon
+Python 
+I have successfully completed my Basic Python learning. With Basic expertise in Python, I am now equipped to develop versatile and efficient solutions. 
+
+
+# resume
+
+My Journey
+
+Education
+
+High School
+2020
+My high school degree, obtained in 2020, showcases my commitment to education, personal growth, and lifelong learning. 
+
+Intermediate
+2022
+Represents a milestone in my academic journey, reflecting my dedication to learning, development of essential skills, and readiness for higher education and professional endeavors. 
+
+
+
+Maharshi Dayanand University
+2022 — Present
+Enthusiastically working towards a Bachelor's degree in Computer Applications. Showcasing my dedication to mastering programming languages, problem-solving skills, and exploring the dynamic world of technology.
+
+
+Experience & Learning
+
+
+Web development
+2022 — Present
+
+High-quality development of sites at the professional level.
+
+
+Web design
+2022 — Present
+
+The most modern and high-quality design made at a professional level.
+
+Team Management
+2021
+
+Problem Solving & Decision Making Techniques.
+
+
+My skills
+
+HTML
+90%
+
+Css
+75%
+
+JavaScript
+40%
+
+C
+70%
+
+Java
+20%
+
+WordPress
+85%
+
+
+
+
+# portfolio to be added
+
+
+
+# contact
+
+Contact
+
+Contact Form
+
+Full name
+Email address
+Your Message
+
+Send Message
