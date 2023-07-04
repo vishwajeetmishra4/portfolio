@@ -189,9 +189,9 @@
             <button class="navbar-link" data-nav-link>Resume</button>
           </li>
 
-           <!-- <li class="navbar-item">
+            <li class="navbar-item">
             <button class="navbar-link" data-nav-link>Portfolio</button>
-          </li>  -->
+          </li>  
 
           
 
@@ -590,12 +590,134 @@
 
     
       <!--
-        - #PORTFOLIO to be
+        - #PORTFOLIO
       -->
 
-          <button class="filter-select" data-select>
+      <article class="portfolio" data-page="portfolio">
 
-          </button>
+        <header>
+          <h2 class="h2 article-title">Projects</h2>
+        </header>
+
+        <section class="projects">
+
+          <ul class="filter-list">
+
+            <li class="filter-item">
+              <button class="active" data-filter-btn>All</button>
+            </li>
+
+            <li class="filter-item">
+              <button data-filter-btn>Web Development</button>
+            </li>
+
+            <li class="filter-item">
+              <button data-filter-btn>Web Applications</button>
+            </li>
+
+            <li class="filter-item">
+              <button data-filter-btn>Web Design</button>
+            </li>
+
+          </ul>
+
+          <div class="filter-select-box">
+
+            <button class="filter-select" data-select>
+
+              <div class="select-value" data-selecct-value>Select category</div>
+
+              <div class="select-icon">
+                <ion-icon name="chevron-down"></ion-icon>
+              </div>
+
+            </button>
+
+            <ul class="select-list">
+
+              <li class="select-item">
+                <button data-select-item>All</button>
+              </li>
+
+              <li class="select-item">
+                <button data-select-item>Web Development</button>
+              </li>
+
+              <li class="select-item">
+                <button data-select-item>Web Applications</button>
+              </li>
+
+              <li class="select-item">
+                <button data-select-item>Web Design</button>
+              </li>
+
+            </ul>
+
+          </div>
+
+          <ul class="project-list">
+
+            <li class="project-item  active" data-filter-item data-category="web development">
+              <a href="https://vishwajeetmishra4.github.io/Todo-List/" target="_blank" >
+
+                <figure class="project-img">
+                  <div class="project-item-icon-box">
+                    <ion-icon name="eye-outline"></ion-icon>
+                  </div>
+
+                  <img src="./assets/images/Todo-list.png" alt="finance" loading="lazy">
+                </figure>
+
+                <h3 class="project-title">Todo List</h3>
+
+                <p class="project-category">Web development</p>
+
+              </a>
+            </li>
+
+            <li class="project-item  active" data-filter-item data-category="web applications" >
+              <a href="https://vishwajeetmishra4.github.io/Calculator/" target="_blank">
+
+                <figure class="project-img">
+                  <div class="project-item-icon-box">
+                    <ion-icon name="eye-outline"></ion-icon>
+                  </div>
+
+                  <img src="./assets/images/Calculator-dark.png" alt="orizon" loading="lazy">
+                </figure>
+
+                <h3 class="project-title">Calculator(Dark & Light)</h3>
+
+                <p class="project-category">Web development</p>
+
+              </a>
+            </li>
+
+            <li class="project-item  active" data-filter-item data-category="web design">
+              <a href="https://vishwajeetmishra4.github.io/Digital-Clock/" target="_blank">
+
+                <figure class="project-img">
+                  <div class="project-item-icon-box">
+                    <ion-icon name="eye-outline"></ion-icon>
+                  </div>
+
+                  <img src="./assets/images/Digital-Clock.png" alt="fundo" loading="lazy">
+                </figure>
+
+                <h3 class="project-title">Digital Clock</h3>
+
+                <p class="project-category">Web Design</p>
+
+              </a>
+            </li>
+
+
+          </ul>
+
+        </section>
+
+      </article>
+        
             
       <!--
         - #CONTACT
