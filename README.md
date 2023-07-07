@@ -14,4 +14,4 @@ Vishwajeet Mishra Personal Portfolio is a fully responsive personal portfolio we
 This project & all it's License & CopyRight Claims belongs to **Vishwajeet Mishra** Only. Kindly,Ask Before Using it. 
 
 ## Preview 
-![Screenshot_2023-07-07-13-15-20-519-edit_com android chrome](https://github.com/vishwajeetmishra4/portfolio/assets/135427511/f9114fc4-7d38-4a81-bcca-fc3033d488af
+(https://github.com/vishwajeetmishra4/portfolio/assets/135427511/f9114fc4-7d38-4a81-bcca-fc3033d488af
